@@ -1,0 +1,6 @@
+@auto_mapper_testing_HostAddress = http://localhost:5253
+
+GET {{auto_mapper_testing_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
